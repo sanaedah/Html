@@ -62,12 +62,11 @@ header{
   margin: auto
 }
 #body{
-background-image: url("picture/fondecrans.jpg");
-background-position: center;
-background-size: cover;
-
-background-attachment: fixed;
-background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("picture/fondecrans.jpg");
 }
 #bodystuff{
     background-color:rgb(186, 183, 183);
